@@ -1,1 +1,6 @@
-forked from https://github.com/cody-dkdc
+# lostmygithubaccount
+
+forked from https://github.com/cody-dkdc (if you're from GitHub and can help me get it back, I'll stop using this account maybe)
+
+- PM @ Microsoft | AI Platform | Azure Machine Learning
+- Pretend Data Scientist
