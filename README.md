@@ -24,4 +24,6 @@ Various.
 
 ## Reference
 
-Hoping to publish a real-ish OSS package soon. Otherwise, see work in Microsoft repositories.
+Hoping to publish a real-ish OSS package soon. Otherwise, see work in Microsoft repositories:
+
+- [Azure Machine Learning Examples](https://github.com/Azure/azureml-examples)
