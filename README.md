@@ -30,5 +30,5 @@ Hoping to publish a real-ish OSS package soon. Otherwise, see work in Microsoft 
 
 Some of my favorite Dask repositories:
 
-- [Dask Cloudprovider](https://github.com/dask/dask-cloudprovider)
+- [Dask Cloud Provider](https://github.com/dask/dask-cloudprovider)
 - [ADLFS](https://github.com/dask/adlfs)
