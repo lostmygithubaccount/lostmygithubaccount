@@ -1,6 +1,6 @@
 # lostmygithubaccount
 
-forked from https://github.com/cody-dkdc (if you're from GitHub and can help me get it back, I'll stop using this account maybe)
+forked from [cody-dkdc](https://github.com/cody-dkdc) (if you're from GitHub and can help me get it back, I'll stop using this account maybe)
 
 ## Overview
 
