@@ -24,9 +24,12 @@ Various.
 
 ## Reference
 
-Hoping to publish a real-ish OSS package soon. Otherwise, see work in Microsoft repositories:
+Hoping to publish a real-ish OSS package soon. 
+
+See work in Microsoft repositories:
 
 - [Azure Machine Learning Examples](https://github.com/Azure/azureml-examples)
+- [Azure Machine Learning v2](https://github.com/Azure/azureml-v2-preview)
 
 Some of my favorite Dask repositories:
 
