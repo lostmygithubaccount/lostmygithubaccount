@@ -5,11 +5,13 @@ forked from [cody-dkdc](https://github.com/cody-dkdc) (if you're from GitHub and
 ## Overview
 
 - PM @ Microsoft | AI Platform | Azure Machine Learning
-- Pretend Data Scientist
+- ~~Pretend~~ Data Scientist
 
 ## Priority
 
-Do good.
+Happiness.
+
+What makes me happy? See goals.
 
 ## Goals
 
@@ -24,7 +26,7 @@ Various.
 
 ## Reference
 
-Hoping to publish a real-ish OSS package soon. 
+Hoping to publish a real-ish OSS package soon-ish, ETA: next week. 
 
 See work in Microsoft repositories:
 
