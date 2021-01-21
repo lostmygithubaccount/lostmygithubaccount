@@ -11,7 +11,7 @@ forked from [cody-dkdc](https://github.com/cody-dkdc) (if you're from GitHub and
 
 Happiness.
 
-What makes me happy? See goals.
+> What makes me happy? See goals.
 
 ## Goals
 
