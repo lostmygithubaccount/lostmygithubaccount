@@ -19,7 +19,7 @@ Happiness.
 - OSS & scale
 - beautiful design
 - elegant engineering
-- solve problems with technology
+- progress via technology
 
 ## Principles
 
