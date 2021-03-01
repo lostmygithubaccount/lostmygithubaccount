@@ -6,6 +6,7 @@ forked from [cody-dkdc](https://github.com/cody-dkdc) (if you're from GitHub and
 
 - PM @ Microsoft | AI Platform | Azure Machine Learning
 - ~~Pretend~~ Data Scientist
+- 2FA was the downfall of my previous GitHub account
 
 ## Priority
 
