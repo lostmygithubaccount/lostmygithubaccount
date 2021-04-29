@@ -1,18 +1,16 @@
 # lostmygithubaccount
 
-forked from [cody-dkdc](https://github.com/cody-dkdc) (if you're from GitHub and can help me get it back, I'll stop using this account maybe)
+forked from [cody-dkdc](https://github.com/cody-dkdc) (if you're from GitHub and can help me get it back I'll stop using this account, maybe)
 
 ## Overview
 
 - PM @ Microsoft | AI Platform | Azure Machine Learning
-- ~~Pretend~~ Data Scientist
+- ~~Pretend~~ Data Scientist (?)
 - 2FA was the downfall of my previous GitHub account
 
 ## Priority
 
 Happiness.
-
-> What makes me happy? See goals.
 
 ## Goals
 
