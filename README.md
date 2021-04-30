@@ -30,9 +30,3 @@ Hoping to publish a real-ish OSS package soon-ish, ETA: next week.
 See work in Microsoft repositories:
 
 - [Azure Machine Learning Examples](https://github.com/Azure/azureml-examples)
-- [Azure Machine Learning v2](https://github.com/Azure/azureml-v2-preview)
-
-Some of my favorite Dask repositories:
-
-- [Dask Cloud Provider](https://github.com/dask/dask-cloudprovider)
-- [ADLFS](https://github.com/dask/adlfs)
