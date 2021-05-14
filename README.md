@@ -29,4 +29,5 @@ Hoping to publish a real-ish OSS package soon-ish, ETA: next week.
 
 See work in Microsoft repositories:
 
-- [Azure Machine Learning Examples](https://github.com/Azure/azureml-examples)
+- [Azure Machine Learning examples](https://github.com/Azure/azureml-examples)
+- [Azure Machine Learning previews](https://github.com/Azure/azureml-previews)
