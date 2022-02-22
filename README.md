@@ -1,16 +1,12 @@
-# lostmygithubaccount
+# lostmygithubaccount (Cody Peterson)
 
-forked from [cody-dkdc](https://github.com/cody-dkdc) (if you're from GitHub and can help me get it back I'll stop using this account, maybe)
+forked from [cody-dkdc](https://github.com/cody-dkdc) (2FA was the downfall of that account)
 
 ## Overview
 
-- PM @ Microsoft | Digital Transformation Platform | AI Platform | Azure Machine Learning
-- ~~Pretend~~ Data Scientist (?)
-- 2FA was the downfall of my previous GitHub account
+PM II at Microsoft in Azure's AI Platform. 
 
-## Priority
-
-Happiness.
+Product manager for Azure Machine Learning focusing on MLOps and building delightful experiences for data scientists.
 
 ## Goals
 
@@ -23,7 +19,7 @@ Happiness.
 
 Various.
 
-## Reference
+## Projects
 
 Hoping to publish a real-ish OSS package soon-ish, ETA: next week. 
 
