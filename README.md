@@ -4,9 +4,7 @@ forked from [cody-dkdc](https://github.com/cody-dkdc) (2FA was the downfall of t
 
 ## Overview
 
-PM II at Microsoft in Azure's AI Platform. 
-
-Product manager for Azure Machine Learning focusing on MLOps and building delightful experiences for data scientists.
+Product manager for ??? focusing on ??? and building delightful experiences for people.
 
 ## Goals
 
@@ -23,4 +21,4 @@ Various.
 
 Hoping to publish a real-ish OSS package soon-ish, ETA: next week. 
 
-See work in Microsoft repositories pinned below.
+See work in repositories pinned below.
