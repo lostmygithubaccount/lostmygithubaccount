@@ -1,3 +1,2 @@
 # Ignore all directories (assuming they are git repos)
 */
-!tasks/
