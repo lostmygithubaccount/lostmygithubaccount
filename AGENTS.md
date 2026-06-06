@@ -7,7 +7,7 @@ Meta-repo for personal projects under the `lostmygithubaccount` GitHub account.
 | Directory | Purpose |
 |-----------|---------|
 | `bin/` | Personal CLI scripts |
-| `dkdc.dev/` | Cody's personal website |
+| `dkdc.net/` | Cody's personal website |
 | `dotfiles/` | Dotfiles |
 
 ## Setup
